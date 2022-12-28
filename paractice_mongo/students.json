@@ -1,0 +1,181 @@
+[{
+  "_id": {
+    "$oid": "63a33233cc3fa26961d95bd3"
+  },
+  "name": "Peyami Safa",
+  "age": 45,
+  "city": "İstanbul",
+  "grade": 535,
+  "department":"Math",
+  "books": [
+    {
+      "name": "Math",
+      "category": "lessson"
+    },
+    {
+      "name": "Sefiller",
+      "category": "novel"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63a3330bcc3fa26961d95bd4"
+  },
+  "name": "John Steinbeck",
+  "age": 55,
+  "city": "Bursa",
+  "grade": 535,
+  "department": {
+    "name": "IT",
+    "language": "tr"
+  },
+  "points": [
+    70,
+    90,
+    100
+  ]
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bd5"
+  },
+  "name": "Ahmet Ümit",
+  "age": 35,
+  "city": "İstanbul",
+  "grade": 463,
+  "department": {
+    "name": "IT",
+    "language": "tr"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bd6"
+  },
+  "name": "R.Nuri Güntekin",
+  "age": 43,
+  "city": "Ankara",
+  "grade": 567,
+  "department": {
+    "name": "Math",
+    "language": "eng"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bd7"
+  },
+  "name": "S.Faik Abasıyanık",
+  "age": 55,
+  "city": "Antalya",
+  "grade": 409,
+  "department": {
+    "name": "Chemistry",
+    "language": "eng"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bd8"
+  },
+  "name": "Yaşar Kemal",
+  "age": 23,
+  "city": "İstanbul",
+  "grade": 390,
+  "department": {
+    "name": "English",
+    "language": "eng"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bd9"
+  },
+  "name": "Halide E. Adıvar",
+  "age": 26,
+  "city": "İzmir",
+  "grade": 523,
+  "department": {
+    "name": "Math",
+    "language": "tr"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bda"
+  },
+  "name": "Charles Dickens",
+  "age": 35,
+  "city": "İstanbul",
+  "grade": 463,
+  "department": {
+    "name": "IT",
+    "language": "eng"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bdb"
+  },
+  "name": "Nazan Bekiroğlu",
+  "age": 49,
+  "city": "Bursa",
+  "grade": 387,
+  "department": {
+    "name": "English",
+    "language": "eng"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bdc"
+  },
+  "name": "Sabahattin Ali",
+  "age": 53,
+  "city": "İzmir",
+  "grade": 427,
+  "department": {
+    "name": "Physics",
+    "language": "tr"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bdd"
+  },
+  "name": "Stephen King",
+  "age": 53,
+  "city": "İzmir",
+  "grade": 523,
+  "department": {
+    "name": "Physics",
+    "language": "eng"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bde"
+  },
+  "name": "Orhan Pamuk",
+  "age": 56,
+  "city": "Ankara",
+  "grade": 486,
+  "department": {
+    "name": "Psychology",
+    "language": "tr"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95bdf"
+  },
+  "name": "Rıfat Ilgaz",
+  "age": 74,
+  "city": "Antalya",
+  "grade": 519,
+  "department": {
+    "name": "IT",
+    "language": "eng"
+  }
+},{
+  "_id": {
+    "$oid": "63a333d8cc3fa26961d95be0"
+  },
+  "name": "Lev Tolstoy",
+  "age": 26,
+  "city": "Antalya",
+  "grade": 520,
+  "department": {
+    "name": "IT",
+    "language": "eng"
+  }
+}]
